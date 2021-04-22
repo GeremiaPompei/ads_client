@@ -1,0 +1,7 @@
+/home/geremiapompei/projects/ads_client/build/CMakeFiles/install/strip.dir
+/home/geremiapompei/projects/ads_client/build/CMakeFiles/install/local.dir
+/home/geremiapompei/projects/ads_client/build/CMakeFiles/install.dir
+/home/geremiapompei/projects/ads_client/build/CMakeFiles/list_install_components.dir
+/home/geremiapompei/projects/ads_client/build/CMakeFiles/rebuild_cache.dir
+/home/geremiapompei/projects/ads_client/build/CMakeFiles/edit_cache.dir
+/home/geremiapompei/projects/ads_client/build/CMakeFiles/ads_client.dir

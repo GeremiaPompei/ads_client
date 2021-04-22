@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/ads_client.dir/main.cpp.o  -o ads_client  -lads 
