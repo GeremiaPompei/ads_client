@@ -6,6 +6,6 @@ set(CMAKE_CXX_STANDARD 11)
 
 add_executable(ads_client main.cpp)
 
-install(TARGETS ads_client RUNTIME DESTINATION bin)
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -pthread")
 
-target_link_libraries(${PROJECT_NAME} PUBLIC ads)
+target_link_libraries(${PROJECT_NAME} PUBLIC libAdsLib.a)
